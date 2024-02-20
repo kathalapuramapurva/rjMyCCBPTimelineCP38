@@ -1,0 +1,28 @@
+.main-container {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+}
+.content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.journey {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 500;
+}
+.ccbp {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 500;
+}
+.chrono-container {
+  width: 100%;
+}
